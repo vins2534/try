@@ -8,6 +8,6 @@ imbalanced-learn
 tensorflow
 scikeras
 streamlit
-joblib
 huggingface_hub
 opencv-python-headless
+dill
