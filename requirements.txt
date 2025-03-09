@@ -10,4 +10,4 @@ scikeras
 streamlit
 joblib
 huggingface_hub
-opencv-python
+opencv-python-headless
